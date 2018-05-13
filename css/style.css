@@ -411,11 +411,11 @@ body,main {background-color: #f8f8f8;}
 	height: 350px;
  }
 
+	.instagram a {text-decoration: none;}
+
 .instagram:hover {
 	opacity: 0.6;
 }
- 
-	.instagram a {text-decoration: none;}
  
 .instagram-icon {
 	display: flex;
