@@ -410,6 +410,10 @@ body,main {background-color: #f8f8f8;}
 	background-color: #eaeaea;
 	height: 350px;
  }
+
+.instagram {
+	opacity: 0.6;
+}
  
 	.instagram a {text-decoration: none;}
  
