@@ -411,7 +411,7 @@ body,main {background-color: #f8f8f8;}
 	height: 350px;
  }
 
-.instagram {
+.instagram:hover {
 	opacity: 0.6;
 }
  
